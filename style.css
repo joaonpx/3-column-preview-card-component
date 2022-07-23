@@ -197,6 +197,12 @@ p {
   }
 }
 
+@media (max-width: 320px) {
+  body {
+    margin-block: 35rem;
+  }
+}
+
 /* =================== animation ==================== */
 
 .fade-in-left {
